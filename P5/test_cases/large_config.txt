@@ -1,0 +1,5 @@
+#define TLB_ENTRY 16
+#define MAX_FRAME 256
+#define MAX_PAGE 256
+#define MAX_PID 4
+

@@ -1,0 +1,21 @@
+Replacement Policy: 1 - FIFO
+[pid 0, R] TLB:miss, Page:miss, 0x100 -> 0x0
+[pid 0, R] TLB:miss, Page:miss, 0x200 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x300 -> 0x200
+[pid 0, R] TLB:miss, Page:miss, 0x400 -> 0x0
+[pid 0, R] TLB:miss, Page:miss, 0x100 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x200 -> 0x200
+[pid 0, R] TLB:miss, Page:miss, 0x500 -> 0x0
+[pid 0, R] TLB:miss, Page:hit, 0x100 -> 0x100
+[pid 0, R] TLB:miss, Page:hit, 0x200 -> 0x200
+[pid 0, R] TLB:miss, Page:miss, 0x300 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x400 -> 0x200
+[pid 0, R] TLB:miss, Page:hit, 0x500 -> 0x0
+=====================================
+Request: 12
+Page Hit: 3 (25.00%)
+Page Miss: 9 (75.00%)
+TLB Hit: 0 (0.00%)
+TLB Miss: 12 (100.00%)
+Disk read: 9
+Disk write: 0

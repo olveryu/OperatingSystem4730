@@ -1,0 +1,29 @@
+Replacement Policy: 1 - FIFO
+[pid 0, W] TLB:miss, Page:miss, 0x4a8 -> 0xa8
+[pid 0, W] TLB:miss, Page:miss, 0x7ae -> 0x1ae
+[pid 1, W] TLB:miss, Page:miss, 0x303 -> 0x203
+[pid 1, W] TLB:miss, Page:miss, 0x42e -> 0x32e
+[pid 1, R] TLB:miss, Page:miss, 0x6ec -> 0x4ec
+[pid 1, R] TLB:hit, Page:hit, 0x439 -> 0x339
+[pid 1, W] TLB:miss, Page:miss, 0x7d0 -> 0x5d0
+[pid 1, W] TLB:miss, Page:miss, 0x16 -> 0x616
+[pid 0, R] TLB:hit, Page:hit, 0x742 -> 0x142
+[pid 0, W] TLB:miss, Page:miss, 0x6e3 -> 0x7e3
+[pid 1, W] TLB:miss, Page:miss, 0x5eb -> 0xeb
+[pid 1, R] TLB:miss, Page:hit, 0x38e -> 0x28e
+[pid 1, R] TLB:miss, Page:hit, 0x7bc -> 0x5bc
+[pid 1, R] TLB:miss, Page:miss, 0x11e -> 0x11e
+[pid 0, W] TLB:miss, Page:miss, 0x3e5 -> 0x2e5
+[pid 1, W] TLB:hit, Page:hit, 0xac -> 0x6ac
+[pid 1, W] TLB:miss, Page:hit, 0x52e -> 0x2e
+[pid 0, W] TLB:miss, Page:miss, 0x471 -> 0x371
+[pid 1, W] TLB:miss, Page:hit, 0x6a6 -> 0x4a6
+[pid 1, R] TLB:hit, Page:hit, 0xd9 -> 0x6d9
+=====================================
+Request: 20
+Page Hit: 8 (40.00%)
+Page Miss: 12 (60.00%)
+TLB Hit: 4 (20.00%)
+TLB Miss: 16 (80.00%)
+Disk read: 12
+Disk write: 4

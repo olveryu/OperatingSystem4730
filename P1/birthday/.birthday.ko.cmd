@@ -1,0 +1,1 @@
+cmd_/home/osc/p1/birthday/birthday.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/osc/p1/birthday/birthday.ko /home/osc/p1/birthday/birthday.o /home/osc/p1/birthday/birthday.mod.o

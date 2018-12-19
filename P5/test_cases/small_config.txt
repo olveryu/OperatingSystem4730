@@ -1,0 +1,5 @@
+#define TLB_ENTRY 4
+#define MAX_FRAME 8
+#define MAX_PAGE 8
+#define MAX_PID 2
+

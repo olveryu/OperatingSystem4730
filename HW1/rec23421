@@ -1,0 +1,33 @@
+HW1:
+total 732
+-rw-r--r-- 1 ugrad  63699 Aug 19 17:56 DOTA2.PNG
+-rw-r--r-- 1 ugrad    127 Aug 27 14:54 Makefile
+-rw-r--r-- 1 ugrad   2447 Aug 28 15:51 Questions.txt
+-rw-r--r-- 1 ugrad      0 Aug 28 15:51 rec23421
+-rw-r--r-- 1 ugrad 250964 Aug 28 14:45 report.pdf
+-rwxr-xr-x 1 ugrad  12840 Aug 28 14:34 statistics
+-rw-r--r-- 1 ugrad   2276 Aug 28 14:34 statistics.c
+drwxr-xr-x 2 ugrad   4096 Aug 27 19:52 test
+-rw-r--r-- 1 ugrad 396235 Aug 19 17:55 Yan,Zhenyu.JPG
+
+HW1/test:
+total 560
+-rw-r--r-- 1 ugrad     26 Aug 27 19:52 05numbers.txt
+-rw-r--r-- 1 ugrad 438519 Aug 27 19:52 100000numbers.txt
+-rw-r--r-- 1 ugrad  43847 Aug 27 19:52 10000numbers.txt
+-rw-r--r-- 1 ugrad    116 Aug 27 19:52 10-multimode-numbers.txt
+-rw-r--r-- 1 ugrad     42 Aug 27 19:52 10numbers.txt
+-rw-r--r-- 1 ugrad     86 Aug 27 19:52 29numbers.txt
+-rw-r--r-- 1 ugrad    162 Aug 27 19:52 40numbers.txt
+-rw-r--r-- 1 ugrad    162 Aug 27 19:52 40-sorted.txt
+-rw-r--r-- 1 ugrad    166 Aug 27 19:52 41numbers.txt
+-rw-r--r-- 1 ugrad     14 Aug 27 19:52 6numbers.txt
+-rw-r--r-- 1 ugrad    830 Aug 27 19:52 DIRECTORY.html
+-rw-r--r-- 1 ugrad  10276 Aug 27 19:52 meanmediamode
+-rw-r--r-- 1 ugrad    166 Aug 27 19:52 med.txt
+-rw-r--r-- 1 ugrad     16 Aug 27 19:52 op.txt
+-rwxr-xr-x 1 ugrad   7934 Aug 27 19:52 randomnumbers
+-rw-r--r-- 1 ugrad   1030 Aug 27 19:52 randomnumbers.c
+-rw-r--r-- 1 ugrad   1128 Aug 27 19:52 README.txt
+-rw-r--r-- 1 ugrad  10276 Aug 27 19:52 statistics
+/home/ugrads/zhenyu/4730/HW1:/home/work/csx730

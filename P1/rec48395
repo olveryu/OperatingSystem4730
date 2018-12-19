@@ -1,0 +1,53 @@
+P1:
+total 16
+drwxr-xr-x 3 ugrad 4096 Sep 11 14:22 birthday
+drwxr-xr-x 3 ugrad 4096 Sep 11 14:22 bonus
+-rw-r--r-- 1 ugrad  416 Sep 11 14:42 README.txt
+-rw-r--r-- 1 ugrad    0 Sep 11 14:42 rec48395
+drwxr-xr-x 3 ugrad 4096 Sep 11 14:22 simple
+
+P1/birthday:
+total 92
+-rw-r--r-- 1 ugrad  1827 Sep 10 20:17 birthday.c
+-rw-r--r-- 1 ugrad  1868 Sep 10 19:58 birthday.c~
+-rw-r--r-- 1 ugrad  5744 Sep 10 20:17 birthday.ko
+-rw-r--r-- 1 ugrad   981 Sep 10 20:17 birthday.mod.c
+-rw-r--r-- 1 ugrad  3120 Sep 10 20:17 birthday.mod.o
+-rw-r--r-- 1 ugrad  4544 Sep 10 20:17 birthday.o
+-rw-r--r-- 1 ugrad   156 Sep 10 18:58 Makefile
+-rw-r--r-- 1 ugrad   154 Sep 10 16:57 Makefile~
+-rw-r--r-- 1 ugrad    41 Sep 10 20:18 modules.order
+-rw-r--r-- 1 ugrad     0 Sep 10 20:17 Module.symvers
+-rw-r--r-- 1 ugrad  6730 Sep 11 14:12 P1_BIRTH_Compile.png
+-rw-r--r-- 1 ugrad 39406 Sep 10 23:17 P1_BIRTH_LoadRemove.png
+
+P1/bonus:
+total 144
+-rw-r--r-- 1 ugrad  1825 Sep 11 14:15 birthday.c
+-rw-r--r-- 1 ugrad  1829 Sep 11 14:06 birthday.c~
+-rw-r--r-- 1 ugrad  5744 Sep 11 14:17 birthday.ko
+-rw-r--r-- 1 ugrad   981 Sep 11 14:17 birthday.mod.c
+-rw-r--r-- 1 ugrad  3120 Sep 11 14:17 birthday.mod.o
+-rw-r--r-- 1 ugrad  4544 Sep 11 14:17 birthday.o
+-rw-r--r-- 1 ugrad 47696 Sep 11 14:18 BNOUS_Load.png
+-rw-r--r-- 1 ugrad  5982 Sep 11 14:17 BONUS_Compile.png
+-rw-r--r-- 1 ugrad 44076 Sep 11 14:19 BONUS_Remove.png
+-rw-r--r-- 1 ugrad   156 Sep 11 14:06 Makefile
+-rw-r--r-- 1 ugrad   154 Sep 11 14:06 Makefile~
+-rw-r--r-- 1 ugrad    38 Sep 11 14:17 modules.order
+-rw-r--r-- 1 ugrad     0 Sep 11 14:06 Module.symvers
+
+P1/simple:
+total 80
+-rw-r--r-- 1 ugrad  2317 Sep 11 13:51 hello.c
+-rw-r--r-- 1 ugrad   154 Sep 11 13:51 Makefile
+-rw-r--r-- 1 ugrad    48 Sep 11 13:51 modules.order
+-rw-r--r-- 1 ugrad     0 Sep 11 13:51 Module.symvers
+-rw-r--r-- 1 ugrad 18521 Sep 11 14:14 P1_SIMP_Compile.png
+-rw-r--r-- 1 ugrad 23499 Sep 10 23:22 P1_SIMP_LoadRemove.png
+-rw-r--r-- 1 ugrad   737 Sep 11 13:51 simple.c
+-rw-r--r-- 1 ugrad  4288 Sep 11 13:51 simple.ko
+-rw-r--r-- 1 ugrad   818 Sep 11 13:51 simple.mod.c
+-rw-r--r-- 1 ugrad  2928 Sep 11 13:51 simple.mod.o
+-rw-r--r-- 1 ugrad  3128 Sep 11 13:51 simple.o
+/home/ugrads/zhenyu/4730/P1:/home/work/csx730

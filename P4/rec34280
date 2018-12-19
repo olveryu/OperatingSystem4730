@@ -1,0 +1,47 @@
+P4:
+total 856
+drwxr-xr-x 2 ugrad   4096 Nov 13 22:53 data
+-rw-r--r-- 1 ugrad   1873 Nov 13 05:06 lottery_schedule.c
+-rw-r--r-- 1 ugrad    140 Nov 13 03:32 lottery_schedule.h
+-rw-r--r-- 1 ugrad    233 Nov 13 10:17 Makefile
+-rw-r--r-- 1 ugrad   1917 Oct 31 12:51 mrand.c
+-rw-r--r-- 1 ugrad    669 Oct 31 22:59 mrand.h
+-rw-r--r-- 1 ugrad   2858 Nov 13 14:40 multilevel_feedback.c
+-rw-r--r-- 1 ugrad    375 Oct 31 21:28 multilevel_feedback.h
+-rw-r--r-- 1 ugrad    772 Nov 13 02:18 process.h
+-rw-r--r-- 1 ugrad   2145 Oct 31 23:00 queue.c
+-rw-r--r-- 1 ugrad    738 Oct 31 23:00 queue.h
+-rw-r--r-- 1 ugrad    956 Oct 31 23:01 queuetest.c
+-rw-r--r-- 1 ugrad   5683 Oct 31 12:51 random.txt
+-rw-r--r-- 1 ugrad    972 Nov 13 14:00 README.txt
+-rw-r--r-- 1 ugrad      0 Nov 13 22:54 rec34280
+-rw-r--r-- 1 ugrad 349311 Nov 13 22:52 report.docx
+-rw-r--r-- 1 ugrad 386880 Nov 13 22:52 report.pdf
+-rw-r--r-- 1 ugrad    342 Nov 13 04:38 scheduler.h
+-rw-r--r-- 1 ugrad   1823 Nov 13 04:04 sjf_schedule.c
+-rw-r--r-- 1 ugrad    128 Nov 13 01:53 sjf_schedule.h
+-rw-r--r-- 1 ugrad  15359 Nov 13 22:42 stat.xlsx
+-rwxr-xr-x 1 ugrad  22439 Nov 13 22:53 thecoordinator
+-rw-r--r-- 1 ugrad   9734 Nov 13 04:47 thecoordinator.c
+-rw-r--r-- 1 ugrad   3433 Nov 13 02:03 utils.c
+-rw-r--r-- 1 ugrad    658 Nov 13 01:54 utils.h
+
+P4/data:
+total 84
+-rw-r--r-- 1 ugrad    22 Oct 31 12:52 data11.txt
+-rw-r--r-- 1 ugrad    22 Oct 31 12:52 data1.txt
+-rw-r--r-- 1 ugrad    16 Oct 31 12:52 data2.txt
+-rw-r--r-- 1 ugrad    27 Oct 31 12:52 data3.txt
+-rw-r--r-- 1 ugrad    40 Oct 31 12:52 data4.txt
+-rw-r--r-- 1 ugrad    24 Oct 31 12:52 data5.txt
+-rw-r--r-- 1 ugrad    41 Oct 31 12:52 data6.txt
+-rw-r--r-- 1 ugrad    27 Oct 31 12:52 data7.txt
+-rw-r--r-- 1 ugrad    22 Oct 31 12:52 data8.txt
+-rw-r--r-- 1 ugrad  2000 Oct 31 12:52 data-given.txt
+-rw-r--r-- 1 ugrad  3897 Oct 31 22:56 output-data11-given-A.txt
+-rw-r--r-- 1 ugrad  3901 Oct 31 22:53 output-data11-given-N.txt
+-rw-r--r-- 1 ugrad 10466 Oct 31 12:52 output-data-given-A.txt
+-rw-r--r-- 1 ugrad 10470 Oct 31 12:52 output-data-given-N.txt
+-rw-r--r-- 1 ugrad  5683 Oct 31 12:52 random.txt
+-rw-r--r-- 1 ugrad    50 Oct 31 22:57 test11.txt
+/home/ugrads/zhenyu/4730/P4:/home/work/csx730

@@ -1,0 +1,22 @@
+HW3:
+total 300
+-rw-r--r-- 1 ugrad    332 Sep 18 00:13 Makefile
+-rwxr-xr-x 1 ugrad  10294 Sep 18 11:13 processOne
+-rw-r--r-- 1 ugrad   1126 Sep 18 11:13 processOne.c
+-rwxr-xr-x 1 ugrad  10151 Sep 18 11:13 processThree
+-rw-r--r-- 1 ugrad   1085 Sep 18 10:31 processThree.c
+-rwxr-xr-x 1 ugrad  10141 Sep 18 11:13 processTwo
+-rw-r--r-- 1 ugrad   1081 Sep 18 10:24 processTwo.c
+-rw-r--r-- 1 ugrad 241875 Sep 18 03:15 QA.pdf
+-rw-r--r-- 1 ugrad    398 Sep 18 10:28 README.txt
+-rw-r--r-- 1 ugrad      0 Sep 18 11:14 rec47189
+drwxr-xr-x 2 ugrad   4096 Sep 18 00:59 test
+
+HW3/test:
+total 36
+-rwxr-xr-x 1 ugrad 10827 Sep 18 00:59 kirk
+-rw-r--r-- 1 ugrad   991 Sep 18 00:57 kirk.c
+-rw-r--r-- 1 ugrad   158 Sep 18 00:59 Makefile
+-rwxr-xr-x 1 ugrad 10258 Sep 18 00:59 spock
+-rw-r--r-- 1 ugrad   788 Sep 18 00:57 spock.c
+/home/ugrads/zhenyu/4730/HW3:/home/work/csx730

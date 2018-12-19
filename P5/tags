@@ -1,0 +1,76 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CLOCK	vm.h	16;"	d
+FIFO	vm.h	14;"	d
+Invert	pagetable.h	/^} Invert;$/;"	t	typeref:struct:__anon1
+LRU	vm.h	15;"	d
+MAX_FRAME	vm.h	19;"	d
+MAX_PAGE	vm.h	20;"	d
+MAX_PID	vm.h	21;"	d
+MMU	pagetable.c	/^int MMU(int pid, int addr, char type, bool *hit, bool *tlbhit)$/;"	f
+Node	list.h	/^struct Node  {$/;"	s
+PT	pagetable.h	/^} PT;$/;"	t	typeref:struct:__anon4
+PTE	pagetable.h	/^} PTE;$/;"	t	typeref:struct:__anon2
+RANDOM	vm.h	13;"	d
+STATS	pagetable.h	/^} STATS;$/;"	t	typeref:struct:__anon3
+TLB	pagetable.h	/^} TLB;$/;"	t	typeref:struct:__anon5
+TLB_ENTRY	vm.h	18;"	d
+ZERO	vm.h	5;"	d
+clock	replacement.c	/^int clock()$/;"	f
+data	list.h	/^		int data;$/;"	m	struct:Node
+debug	vm.h	10;"	d
+debug	vm.h	8;"	d
+dirty	pagetable.h	/^		bool dirty;$/;"	m	struct:__anon2
+disk_print_stats	disk.c	/^void disk_print_stats()$/;"	f
+disk_read	disk.c	/^void disk_read(int frame, int pid, int page)$/;"	f
+disk_write	disk.c	/^void disk_write(int frame, int pid, int page)$/;"	f
+entry	pagetable.h	/^		PTE entry[MAX_PID][MAX_PAGE];$/;"	m	struct:__anon4
+entry	pagetable.h	/^		int entry[2]; \/\/ virtual pageno$/;"	m	struct:__anon5
+fifo	replacement.c	/^int fifo()$/;"	f
+frameNo	pagetable.h	/^		int frameNo;$/;"	m	struct:__anon2
+frameNo	pagetable.h	/^		int frameNo[2];$/;"	m	struct:__anon5
+freePageNo	pagetable.c	/^int freePageNo=0;$/;"	v
+head	replacement.c	/^struct Node *head = NULL;$/;"	v	typeref:struct:Node
+hitCount	pagetable.h	/^		int hitCount;$/;"	m	struct:__anon3
+invert_table	pagetable.c	/^Invert invert_table[MAX_FRAME];$/;"	v
+is_TLB_hit	pagetable.c	/^int is_TLB_hit(int pid, int pageNo, int type)$/;"	f
+is_page_hit	pagetable.c	/^int is_page_hit(int pid, int pageNo, char type)$/;"	f
+list_insert_head	list.c	/^struct Node *list_insert_head(struct Node *head, int x) {$/;"	f
+list_insert_tail	list.c	/^struct Node *list_insert_tail(struct Node *head, int x) {$/;"	f
+list_new_node	list.c	/^struct Node* list_new_node(int x) {$/;"	f
+list_print	list.c	/^void list_print(struct Node *head) {$/;"	f
+list_remove	list.c	/^struct Node *list_remove(struct Node *head, int data)$/;"	f
+list_remove_head	list.c	/^struct Node* list_remove_head(struct Node *head)$/;"	f
+list_remove_tail	list.c	/^struct Node* list_remove_tail(struct Node *head)$/;"	f
+list_reverse_print	list.c	/^void list_reverse_print(struct Node *head) {$/;"	f
+lru	pagetable.h	/^		int lru;$/;"	m	struct:__anon5
+lru	replacement.c	/^int lru()$/;"	f
+main	input_gen.c	/^int main(int argc, char **argv)$/;"	f
+main	list_test.c	/^int main()$/;"	f
+main	vm.c	/^int main(int argc, char **argv)$/;"	f
+missCount	pagetable.h	/^		int missCount;$/;"	m	struct:__anon3
+next	list.h	/^		struct Node* next;$/;"	m	struct:Node	typeref:struct:Node::Node
+numDiskRead	disk.c	/^int numDiskRead = 0;$/;"	v
+numDiskWrite	disk.c	/^int numDiskWrite = 0;$/;"	v
+page	pagetable.h	/^		int page;$/;"	m	struct:__anon1
+pageTable	pagetable.c	/^PT pageTable;$/;"	v
+page_replacement	replacement.c	/^int page_replacement()$/;"	f
+pagefault_handler	pagetable.c	/^int pagefault_handler(int pid, int pageNo, char type, bool *hit)$/;"	f
+pid	pagetable.h	/^		int pid;$/;"	m	struct:__anon1
+prev	list.h	/^		struct Node* prev;$/;"	m	struct:Node	typeref:struct:Node::Node
+pt_init	pagetable.c	/^void pt_init()$/;"	f
+pt_print_stats	pagetable.c	/^void pt_print_stats()$/;"	f
+random	replacement.c	/^int random()$/;"	f
+replacementPolicy	vm.c	/^int replacementPolicy;$/;"	v
+stats	pagetable.h	/^		STATS stats;$/;"	m	struct:__anon4
+tlb	pagetable.c	/^TLB tlb[MAX_PID][TLB_ENTRY\/2];$/;"	v
+tlbHitCount	pagetable.h	/^		int tlbHitCount;$/;"	m	struct:__anon3
+tlbMissCount	pagetable.h	/^		int tlbMissCount;$/;"	m	struct:__anon3
+tlb_init	pagetable.c	/^void tlb_init()$/;"	f
+to_char	vm.c	/^char* to_char(bool hit)$/;"	f
+valid	pagetable.h	/^		bool valid;$/;"	m	struct:__anon2
+valid	pagetable.h	/^		bool valid[2];$/;"	m	struct:__anon5

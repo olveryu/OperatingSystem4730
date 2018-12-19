@@ -1,0 +1,31 @@
+2c) Q/A : Please answer these questions in in the text file.
+
+(i) Does a simple calculator require an operating system? If yes (argue why)? If no (argue why not)? For this question you may use any outside resources (Internet, books, friends, ...) Be sure to cite your references. 250 word maximum. 
+A simple Calculator did not require an operating System. A simple calculator has only user and only one application so there's nothing to manage there. And the hardware is simple enough that the single application may as well just talk directly to it, rather than going through the intermediate layer of an operating system.£¨David£©
+
+(ii) What are virtual machines? Explain the relationship between the Java programming language and the virtual machine concept. List at least 2 virtual machines that you are familiar with. (if you don't know please free to use the web for ideas, make sure to cite your resources). 500 word maximum. 
+A virtual machine is an operating system. A Java virtual machine (JVM), an implementation of the Java Virtual Machine Specification, interprets compiled Java binary code (called bytecode) for a computer's processor (or "hardware platform") so that it can perform a Java program's instructions. Java was designed to allow application programs to be built that could be run on any platform without having to be rewritten or recompiled by the programmer for each separate platform. (Margaret) One is Java Virtual machine, and the other one is Linux process.
+
+(iii) (Movie) What is the full quote about 'sugar water', who made the quote and what part of the quote made difference to the recipient?
+"Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?"----- Steve Jobs
+It is the "do you want to come with me and changed the world?" part made difference to the recipient.
+(iv) (Movie) Name three important ("allegedly") shown to Steve Jobs and cohorts at Xerox PARC.
+1.	orienting programming 
+2.	networked computer system
+3.	graphical user interface.
+
+
+
+
+
+
+
+
+
+
+
+
+Referance
+David Richerby (https://cs.stackexchange.com/users/9550/david-richerby), Does a simple calculator require an operating system?, URL (version: 2016-08-18): https://cs.stackexchange.com/q/62700
+
+Margaret Rouse¡°What Is Java Virtual Machine (JVM)? - Definition from WhatIs.com.¡± TheServerSide.com, www.theserverside.com/definition/Java-virtual-machine-JVM.

@@ -1,0 +1,84 @@
+P3:
+total 1488
+-rw-r--r-- 1 ugrad    3955 Feb  7  2018 htmlget.c
+drwxr-xr-x 3 ugrad    4096 Oct 10 15:20 htmlget.dSYM
+-rw-r--r-- 1 ugrad    4149 Oct 14 20:57 htmlget_multi.c
+drwxr-xr-x 3 ugrad    4096 Oct 10 15:20 htmlget_multi.dSYM
+-rw-r--r-- 1 ugrad 1458075 Feb  7  2018 index.html
+-rw-r--r-- 1 ugrad    8027 Feb  7  2018 listen
+-rw-r--r-- 1 ugrad     150 Oct 14 20:50 Makefile
+-rw-r--r-- 1 ugrad     452 Oct 16 21:12 README.txt
+-rw-r--r-- 1 ugrad       0 Oct 16 21:13 rec55693
+-rw-r--r-- 1 ugrad    7995 Feb  7  2018 webserver.c
+drwxr-xr-x 3 ugrad    4096 Oct 10 15:20 webserver.dSYM
+-rw-r--r-- 1 ugrad   10332 Oct 16 15:00 webserver_multi.c
+drwxr-xr-x 3 ugrad    4096 Oct 10 15:20 webserver_multi.dSYM
+
+P3/htmlget.dSYM:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Contents
+
+P3/htmlget.dSYM/Contents:
+total 8
+-rw-r--r-- 1 ugrad  636 Feb  7  2018 Info.plist
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Resources
+
+P3/htmlget.dSYM/Contents/Resources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Oct 10 15:20 DWARF
+
+P3/htmlget.dSYM/Contents/Resources/DWARF:
+total 16
+-rw-r--r-- 1 ugrad 12319 Feb  7  2018 htmlget
+
+P3/htmlget_multi.dSYM:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Contents
+
+P3/htmlget_multi.dSYM/Contents:
+total 8
+-rw-r--r-- 1 ugrad  642 Feb  7  2018 Info.plist
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Resources
+
+P3/htmlget_multi.dSYM/Contents/Resources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Oct 10 15:20 DWARF
+
+P3/htmlget_multi.dSYM/Contents/Resources/DWARF:
+total 16
+-rw-r--r-- 1 ugrad 14077 Feb  7  2018 htmlget_multi
+
+P3/webserver.dSYM:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Contents
+
+P3/webserver.dSYM/Contents:
+total 8
+-rw-r--r-- 1 ugrad  638 Feb  7  2018 Info.plist
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Resources
+
+P3/webserver.dSYM/Contents/Resources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Oct 10 15:20 DWARF
+
+P3/webserver.dSYM/Contents/Resources/DWARF:
+total 20
+-rw-r--r-- 1 ugrad 18882 Feb  7  2018 webserver
+
+P3/webserver_multi.dSYM:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Contents
+
+P3/webserver_multi.dSYM/Contents:
+total 8
+-rw-r--r-- 1 ugrad  644 Feb  7  2018 Info.plist
+drwxr-xr-x 3 ugrad 4096 Oct 10 15:20 Resources
+
+P3/webserver_multi.dSYM/Contents/Resources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Oct 10 15:20 DWARF
+
+P3/webserver_multi.dSYM/Contents/Resources/DWARF:
+total 20
+-rw-r--r-- 1 ugrad 19210 Feb  7  2018 webserver_multi
+/home/ugrads/zhenyu/4730/P3:/home/work/csx730

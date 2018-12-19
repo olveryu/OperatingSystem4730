@@ -1,0 +1,58 @@
+
+
+
+Tick    PID Burst Sleep    IO Queue               IO Completed        Status
+=====+=====+=====+=====+======================+======================+==================
+    0:  123:    9:False:   none               :   none               :time slice expired
+    1:  124:   19:False:   none               :   none               :time slice expired
+    2:  123:    8:False:   none               :   none               :running           
+    3:  123:    7:False:   none               :   none               :time slice expired
+    4:  124:   18:False:   none               :   none               :running           
+    5:  124:   17:False:   none               :   none               :time slice expired
+    6:  123:    6: True:   none               :   none               :sleeping          
+    7:  124:   16:False: 123                  :   none               :running           
+    8:  124:   15:False: 123                  :   none               :running           
+    9:  124:   14:False: 123                  :   none               :running           
+   10:  124:   13:False: 123                  : 123                  :time slice expired
+   11:  123:    5:False:   none               :   none               :time slice expired
+   12:  123:    4:False:   none               :   none               :running           
+   13:  123:    3:False:   none               :   none               :time slice expired
+   14:  123:    2:False:   none               :   none               :running           
+   15:  123:    1:False:   none               :   none               :running           
+   16:  123:    0:False:   none               :   none               :* exited          
+   17:  124:   12:False:   none               :   none               :running           
+   18:  124:   11:False:   none               :   none               :running           
+   19:  124:   10:False:   none               :   none               :running           
+   20:  124:    9:False:   none               :   none               :running           
+   21:  124:    8:False:   none               :   none               :running           
+   22:  124:    7:False:   none               :   none               :running           
+   23:  124:    6:False:   none               :   none               :running           
+   24:  124:    5:False:   none               :   none               :time slice expired
+   25:  124:    4:False:   none               :   none               :running           
+   26:  124:    3:False:   none               :   none               :running           
+   27:  124:    2:False:   none               :   none               :running           
+   28:  124:    1:False:   none               :   none               :running           
+   29:  124:    0:False:   none               :   none               :* exited          
+
+
+
+         |  Response   | Total time  | Total time      | Total time      | Total time    | Penalty     
+Job#     |    time     | on cpu      | in ready to run | in sleeping on  | in system     |  Ratio      
+         |             |             | state           | I/O state       |               |             
+=========+=============+=============+=================+=================+===============+=============
+  123    |    0        |   10        |    3            |   4             |   17          | 1.70
+  124    |    1        |   20        |   10            |   0             |   30          | 1.50
+
+
+  Non-aggressive Preemptive Multilevel Feedback
+         Total simulation time:      30
+          Total number of jobs:       2
+ Shortest job turn-around time:      17
+  Longest job turn-around time:      30
+    Number of context switches:      11
+         Average response time:    0.50
+         Average penalty ratio:    1.60
+       Average completion time:   23.50
+   Average time in ready queue:    6.50
+  Average time sleeping on I/O:    2.00
+

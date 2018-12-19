@@ -1,0 +1,29 @@
+Replacement Policy: 1 - FIFO
+[pid 0, R] TLB:miss, Page:miss, 0x700 -> 0x0
+[pid 0, R] TLB:miss, Page:miss, 0x0 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x100 -> 0x200
+[pid 0, R] TLB:miss, Page:miss, 0x200 -> 0x0
+[pid 0, R] TLB:miss, Page:hit, 0x0 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x300 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x0 -> 0x200
+[pid 0, R] TLB:miss, Page:miss, 0x400 -> 0x0
+[pid 0, R] TLB:miss, Page:miss, 0x200 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x300 -> 0x200
+[pid 0, R] TLB:miss, Page:miss, 0x0 -> 0x0
+[pid 0, R] TLB:miss, Page:hit, 0x300 -> 0x200
+[pid 0, R] TLB:miss, Page:hit, 0x200 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x100 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x200 -> 0x200
+[pid 0, R] TLB:miss, Page:hit, 0x0 -> 0x0
+[pid 0, R] TLB:miss, Page:hit, 0x100 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x700 -> 0x0
+[pid 0, R] TLB:miss, Page:miss, 0x0 -> 0x100
+[pid 0, R] TLB:miss, Page:miss, 0x100 -> 0x200
+=====================================
+Request: 20
+Page Hit: 5 (25.00%)
+Page Miss: 15 (75.00%)
+TLB Hit: 0 (0.00%)
+TLB Miss: 20 (100.00%)
+Disk read: 15
+Disk write: 0

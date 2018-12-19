@@ -1,0 +1,41 @@
+P5:
+total 308
+-rw-r--r-- 1 ugrad    332 Apr  3  2018 disk.c
+-rw-r--r-- 1 ugrad     94 Apr  3  2018 disk.h
+-rwxr-xr-x 1 ugrad  10663 Dec  4 13:53 input_gen
+-rw-r--r-- 1 ugrad    593 Apr  3  2018 input_gen.c
+-rw-r--r-- 1 ugrad   2505 Apr  3  2018 list.c
+-rw-r--r-- 1 ugrad    455 Apr  3  2018 list.h
+-rwxr-xr-x 1 ugrad  13760 Dec  4 13:53 list_test
+-rw-r--r-- 1 ugrad    565 Apr  3  2018 list_test.c
+-rw-r--r-- 1 ugrad    343 Apr  3  2018 Makefile
+-rw-r--r-- 1 ugrad   3809 Dec  4 13:20 pagetable.c
+-rw-r--r-- 1 ugrad    493 Dec  4 12:28 pagetable.h
+-rw-r--r-- 1 ugrad    601 Dec  4 14:12 README.txt
+-rw-r--r-- 1 ugrad      0 Dec  4 19:47 rec58618
+-rw-r--r-- 1 ugrad    894 Dec  4 12:54 replacement.c
+-rw-r--r-- 1 ugrad 186666 Dec  4 19:45 report.pdf
+-rw-r--r-- 1 ugrad   4119 Apr  3  2018 tags
+drwxr-xr-x 2 ugrad   4096 Dec  4 19:46 test_cases
+-rw-r--r-- 1 ugrad     99 Apr  3  2018 test_input
+-rwxr-xr-x 1 ugrad  28281 Dec  4 13:53 vm
+-rw-r--r-- 1 ugrad   1290 Dec  4 05:16 vm.c
+-rw-r--r-- 1 ugrad    514 Dec  3 19:50 vm.h
+
+P5/test_cases:
+total 1104
+-rw-r--r-- 1 ugrad    120 Apr  3  2018 belady_input.txt
+-rw-r--r-- 1 ugrad    744 Apr  3  2018 belady_output_fifo_3frame.txt
+-rw-r--r-- 1 ugrad    747 Apr  3  2018 belady_output_fifo_4frame.txt
+-rw-r--r-- 1 ugrad    200 Apr  3  2018 example_input.txt
+-rw-r--r-- 1 ugrad   1104 Apr  3  2018 example_output_fifo_3page.txt
+-rw-r--r-- 1 ugrad   1098 Apr  3  2018 example_output_lru_3page.txt
+-rw-r--r-- 1 ugrad     83 Apr  3  2018 large_config.txt
+-rw-r--r-- 1 ugrad 109349 Apr  3  2018 large_input.txt
+-rw-r--r-- 1 ugrad 485832 Apr  3  2018 large_output_fifo.txt
+-rw-r--r-- 1 ugrad 485790 Apr  3  2018 large_output_lru.txt
+-rw-r--r-- 1 ugrad     78 Apr  3  2018 small_config.txt
+-rw-r--r-- 1 ugrad    197 Apr  3  2018 small_input.txt
+-rw-r--r-- 1 ugrad   1115 Apr  3  2018 small_output_fifo.txt
+-rw-r--r-- 1 ugrad   1117 Apr  3  2018 small_output_lru.txt
+/home/ugrads/zhenyu/4730/P5:/home/work/csx730

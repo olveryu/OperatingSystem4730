@@ -1,0 +1,73 @@
+P2:
+total 12
+drwxr-xr-x 2 ugrad 4096 Sep 26 20:43 Q1
+drwxr-xr-x 2 ugrad 4096 Sep 26 22:31 Q2
+drwxr-xr-x 2 ugrad 4096 Sep 27 10:11 Q3
+-rw-r--r-- 1 ugrad    0 Sep 27 10:13 rec31631
+
+P2/Q1:
+total 136
+-rw-r--r-- 1 ugrad   577 Sep 26 20:43 avg_clnt.c
+-rw-r--r-- 1 ugrad  1808 Sep 26 20:43 avg_clnt.o
+-rw-r--r-- 1 ugrad  1210 Sep 26 20:43 avg.h
+-rw-r--r-- 1 ugrad   283 Sep 26 20:35 avg_proc.c
+-rw-r--r-- 1 ugrad 16488 Sep 26 20:43 avg_proc.o
+-rwxr-xr-x 1 ugrad 18406 Sep 26 20:43 avg_svc
+-rw-r--r-- 1 ugrad  2160 Sep 26 20:43 avg_svc.c
+-rw-r--r-- 1 ugrad  3952 Sep 26 20:43 avg_svc.o
+-rw-r--r-- 1 ugrad   456 Sep 26 20:31 avg.x
+-rw-r--r-- 1 ugrad   529 Sep 26 20:43 avg_xdr.c
+-rw-r--r-- 1 ugrad  1672 Sep 26 20:43 avg_xdr.o
+-rw-r--r-- 1 ugrad   436 Sep 26 14:18 DIRECTORY.html
+-rw-r--r-- 1 ugrad   436 Sep 26 14:18 index.html
+-rw-r--r-- 1 ugrad   444 Sep 26 14:18 Makefile
+-rw-r--r-- 1 ugrad   564 Sep 26 14:18 m-rusers.c
+-rwxr-xr-x 1 ugrad 16830 Sep 26 20:43 ravg
+-rw-r--r-- 1 ugrad  1151 Sep 26 20:34 ravg.c
+-rw-r--r-- 1 ugrad 15416 Sep 26 20:43 ravg.o
+-rw-r--r-- 1 ugrad   444 Sep 26 14:18 RPCMakefile
+
+P2/Q2:
+total 144
+-rw-r--r-- 1 ugrad   544 Sep 26 22:16 avg_clnt.c
+-rw-r--r-- 1 ugrad  1776 Sep 26 22:16 avg_clnt.o
+-rw-r--r-- 1 ugrad  1269 Sep 26 22:16 avg.h
+-rw-r--r-- 1 ugrad  1949 Sep 26 22:29 avg_proc.c
+-rw-r--r-- 1 ugrad 20632 Sep 26 22:29 avg_proc.o
+-rwxr-xr-x 1 ugrad 20990 Sep 26 22:29 avg_svc
+-rw-r--r-- 1 ugrad  2149 Sep 26 22:16 avg_svc.c
+-rw-r--r-- 1 ugrad  3920 Sep 26 22:16 avg_svc.o
+-rw-r--r-- 1 ugrad   286 Sep 26 22:01 avg.x
+-rw-r--r-- 1 ugrad   622 Sep 26 22:16 avg_xdr.c
+-rw-r--r-- 1 ugrad  1744 Sep 26 22:16 avg_xdr.o
+-rw-r--r-- 1 ugrad   436 Sep 27  2011 DIRECTORY.html
+-rw-r--r-- 1 ugrad   436 Sep 27  2011 index.html
+-rw-r--r-- 1 ugrad   444 Sep 27  2011 Makefile
+-rw-r--r-- 1 ugrad   564 Sep 27  2011 m-rusers.c
+-rwxr-xr-x 1 ugrad 17094 Sep 26 22:31 ravg
+-rw-r--r-- 1 ugrad  2876 Sep 26 22:31 ravg.c
+-rw-r--r-- 1 ugrad 16200 Sep 26 22:31 ravg.o
+-rw-r--r-- 1 ugrad   444 Sep 27  2011 RPCMakefile
+
+P2/Q3:
+total 140
+-rw-r--r-- 1 ugrad   562 Sep 27 10:11 avg_clnt.c
+-rw-r--r-- 1 ugrad  1744 Sep 27 10:11 avg_clnt.o
+-rw-r--r-- 1 ugrad  1135 Sep 27 10:11 avg.h
+-rw-r--r-- 1 ugrad  1984 Sep 27 03:17 avg_proc.c
+-rw-r--r-- 1 ugrad 20272 Sep 27 10:11 avg_proc.o
+-rwxr-xr-x 1 ugrad 20781 Sep 27 10:11 avg_svc
+-rw-r--r-- 1 ugrad  2155 Sep 27 10:11 avg_svc.c
+-rw-r--r-- 1 ugrad  3888 Sep 27 10:11 avg_svc.o
+-rw-r--r-- 1 ugrad   225 Sep 27 10:10 avg.x
+-rw-r--r-- 1 ugrad   365 Sep 27 10:11 avg_xdr.c
+-rw-r--r-- 1 ugrad  1464 Sep 27 10:11 avg_xdr.o
+-rw-r--r-- 1 ugrad   436 Sep 26 23:50 DIRECTORY.html
+-rw-r--r-- 1 ugrad   436 Sep 26 23:50 index.html
+-rw-r--r-- 1 ugrad   444 Sep 26 23:50 Makefile
+-rw-r--r-- 1 ugrad   564 Sep 26 23:50 m-rusers.c
+-rwxr-xr-x 1 ugrad 17174 Sep 27 10:11 ravg
+-rw-r--r-- 1 ugrad  3136 Sep 27 10:07 ravg.c
+-rw-r--r-- 1 ugrad 16384 Sep 27 10:11 ravg.o
+-rw-r--r-- 1 ugrad   444 Sep 26 23:50 RPCMakefile
+/home/ugrads/zhenyu/4730/P2:/home/work/csx730
